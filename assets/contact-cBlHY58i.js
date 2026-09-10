@@ -1,1 +1,0 @@
-import{i as e}from"./main-CSs2oUBd.js";import"https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js";e("Contact");document.getElementById("contactForm").addEventListener("submit",t=>{t.preventDefault(),document.getElementById("formStatus").style.display="block",t.target.reset()});
